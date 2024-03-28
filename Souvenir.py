@@ -9,3 +9,4 @@ weight_bauble = 112
 total_weight = (number_souvenirs * weight_souvenir + number_baubles * weight_bauble) / 1000
 # Выводим результат
 print(f'Общий вес посылки: {total_weight} кг.')
+# вес сувениров и безделушек даны в граммах
